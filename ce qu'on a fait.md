@@ -37,3 +37,9 @@ Pédagogie axée sur l'expression en public, l'engagement collectif, l'autonomie
 ## Tedua 
 
 ## Tiers-Lieu 
+
+- repas poésie
+- chantiers participatifs 
+- bas asso
+- micro-cantine
+- formations 

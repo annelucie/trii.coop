@@ -1,9 +1,8 @@
 ---
-title: Contact
+title: "Contact"
 order: 1
+in_menu: true
 ---
+TRii.coop est actuellement composée de 2 dirigeants.
 
-L'Échappée Belle est actuellement composée de 6 membres.
-
-Pour nous contacter : [coucou@lechappeebelle.team](mailto:coucou@lechappeebelle.team)
-`
+Pour nous contacter : [annelucie.dumay@gmail.com](mailto:annelucie.dumay@gmail.com) 

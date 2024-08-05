@@ -3,6 +3,8 @@ title: "Ce qu'on a fait"
 order: 3
 in_menu: true
 ---
+![]({% link images/antenna-cw-cj_nFa14-unsplash.jpg %})
+
 ## Création d'un jeu de société pour une banque mexicaine 
 
 ## Atelier pédagogique autour du théâtre 

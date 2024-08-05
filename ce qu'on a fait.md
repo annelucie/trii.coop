@@ -7,6 +7,11 @@ in_menu: true
 
 ## Création d'un jeu de société pour une banque mexicaine 
 
+2018, création d'un jeu de plateau pour sensibiliser les PME mexicaines aux 
+nouvelles logiques de production amenées par l'économie dite collaborative, alors émergente. 7 semaines de réunions et ateliers entre
+ Bordeaux, Madrid et Mexico. Processus : cadre de réflexion, personae, invention de règles du jeu, proptotypage, test, et impression de 6 
+exemplaires d'un jeu de plateau inventé sur mesure. Pour télécharger le jeu : "de par en par".
+
 ## Atelier pédagogique autour du théâtre 
 
 X séances d'1h30 de septembre à juin pour un groupe de 8 élèves.

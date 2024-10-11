@@ -35,6 +35,13 @@ Pédagogie axée sur l'expression en public, l'engagement collectif, l'autonomie
 ## Social Media Squad
 
 ## Tedua 
+- création en 2017
+- projet de médiation autour de l'identité de genre chez les jeunes
+- ateliers formation de théâtre
+- formations de théâtre et théâtre-clown
+- événements socio-culturels
+- création de spectacle en collectif
+- création d'un lieu privé de diffusion de spectacle
 
 ## Tiers-Lieu 
 
